@@ -8,8 +8,8 @@
 
 Passionate about innovative solutions, enthusiast of the best web development technologies. <br/> Self-taught developer and always trying to improve my knowledge.
 
-- ⚡ Currently improving: **_HTML, CSS, JavaScript and PHP_**
-- 📚 Currently learning: **_ReactJS, NextJS, TDD and Design Patterns_**
+- ⚡ Currently improving: **_React, PHP, Laravel, Symfony, Unit Tests_**
+- 📚 Currently learning: **_TypeScript, Node, Microservices, Docker and Kafka_**
 
 ---
 
